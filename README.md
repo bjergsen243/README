@@ -1,5 +1,4 @@
-Hello, I'm Son. Đang học tại trường Đại học Công Nghệ- Đại học Quốc Gia Hà Nội
-
+Hello, I'm Son. I'm currently studying at VNU University of Engineering and Technology.
 <table>
   <tr>
     <td>
