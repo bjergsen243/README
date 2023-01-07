@@ -18,10 +18,10 @@ Hello, I'm Son. I'm currently studying at VNU University of Engineering and Tech
   </tr>
   <tr>
     <td>
-      Facebook 
+      Linkedin 
     </td>
     <td>
-      https://www.facebook.com/nts243/
+      https://www.linkedin.com/in/sonnt243/
     </td>
   </tr>
   <tr>
