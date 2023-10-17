@@ -1,15 +1,4 @@
 ## Hello, I'm Nguyen Thanh Son.
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=bjergsen243&style=flat-square&color=blue" alt=""/>
-
-- :telescope: I'm currently studying at VNU University of Engineering and Technology.
-
-- :seedling: Exploring Machine Learning and Deep Learning.
-
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-
 ### :mailbox: How to reach me:
 
 <br>
