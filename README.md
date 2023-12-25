@@ -11,14 +11,7 @@
       https://github.com/bjergsen243/
     </td>
   </tr>
-  <tr>
-    <td>
-      Instagram 
-    </td>
-    <td>
-      https://www.instagram.com/thank_sown/
-    </td>
-  </tr>
+ 
   <tr>
     <td>
       Linkedin 
