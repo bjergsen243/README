@@ -3,14 +3,7 @@
 
 <br>
 <table>
-  <tr>
-    <td>
-      Github 
-    </td>
-    <td>
-      https://github.com/bjergsen243/
-    </td>
-  </tr>
+
  
   <tr>
     <td>
